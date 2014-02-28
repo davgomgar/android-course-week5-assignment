@@ -5,7 +5,7 @@ android {
     buildToolsVersion "19.0.1"
 
     defaultConfig {
-        minSdkVersion 13
+        minSdkVersion 16
         targetSdkVersion 19
 
         testPackageName "course.labs.notificationslab.test"
